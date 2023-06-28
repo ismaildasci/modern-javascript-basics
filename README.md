@@ -14,4 +14,4 @@ This repository contains basic examples and tutorials for learning and understan
 To get a local copy of this repository, simply clone it to your machine:
 
 ```sh
-git clone https://github.com/your-username/modern-javascript-basics.git
+git clone https://github.com/ismaildasci/modern-javascript-basics.git
