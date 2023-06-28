@@ -49,5 +49,5 @@ fruit.add('Apple');
 fruit.add('Orange');
 
 fruit.forEach(value => {
-  document.getElementById('output').innerHTML += `<li>${value}</li>`;
+document.getElementById('output').innerHTML += `<li>${value}</li>`;
 });
